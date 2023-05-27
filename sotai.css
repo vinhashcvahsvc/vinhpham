@@ -1,0 +1,50 @@
+.relative{
+    position: relative;
+    width: 50 vw;
+    height: 200 px;
+    /* background: ; */
+}
+.absolute{
+    position : absolute;
+}
+.fixed{
+    position: fixed;
+    width : 100px;
+    height: 100px;
+}
+.padding{
+    padding: 10px;
+
+
+}
+.margin{
+    margin: 10px;
+    background: red
+}
+.flex{
+    display : flex;
+
+    flex-wrap: wrap;
+    gap:10px;
+    
+}
+
+
+.div1{
+    width:33%;
+    height: 100px;
+    
+    background: yellow;
+}
+.div2{
+    width:33%;
+    height: 100px;
+   
+    background: rgb(0, 255, 21);
+}
+.div3{
+    width:33%;
+    height: 100px;
+    
+    background: rgb(167, 81, 28);
+}
